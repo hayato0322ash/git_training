@@ -1,6 +1,8 @@
 # git_training
 
 
+git flow実装試験中！！
+
 
 git_trainingをこれから開始するにあたって
 メモを残しておく

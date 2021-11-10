@@ -1,5 +1,6 @@
 # git_training
 
+github flowの練習中！！大体考え方がわかってきた！！
 
 git flow実装試験中！！
 

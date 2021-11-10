@@ -1,0 +1,13 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "sanemat/font"
+brew "sqlite"
+brew "git"
+brew "postgresql"
+brew "pyenv"
+brew "ruby-build"
+brew "rbenv"
+brew "wget"
+brew "yarn"
+brew "sanemat/font/ricty", args: ["with-powerline"]
